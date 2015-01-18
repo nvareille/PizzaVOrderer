@@ -1,0 +1,17 @@
+{
+  "uuid": "465ead77-d9a5-4ff5-a607-59d98b7a38c7",
+  "shortName": "PizzaVOrderer",
+  "longName": "PizzaVOrderer",
+  "companyName": "Aldeo Labs",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
